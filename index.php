@@ -27,16 +27,18 @@
         }
         .form-group {
             margin: 10px;
+            width: 80px;
 
         }
 
         table {
-            border-collapse: collapse;
-            bottom: 2000px;
+            width: 100px;
+            height: 50px;
+            text-align: center;
         }
 
         table, th, td {
-            border: 1px solid black;
+            border: 1px solid;
         }
 
         th, td {
@@ -44,13 +46,7 @@
             text-align: center;
         }
 
-        th {
-            background-color: #ccc;
-        }
 
-        .current-month {
-            background-color: #f0f0f0;
-        }
     </style>
 </head>
 <body>
