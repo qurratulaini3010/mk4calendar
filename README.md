@@ -1,5 +1,5 @@
-# Nurul Qurratul Aini/n
+ Nurul Qurratul Aini
 
-# DDT5B/n
-# 18DDT21F1089/n
+ DDT5B
+ 18DDT21F1089
  
